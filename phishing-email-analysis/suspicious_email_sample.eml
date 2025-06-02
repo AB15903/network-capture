@@ -1,0 +1,21 @@
+From: Microsoft Account Team <security@microsoftsupport.com>
+To: user@example.com
+Subject: Unusual sign-in activity
+Date: Wed, 20 Mar 2024 18:32:17 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>We detected something unusual about a recent sign-in to your Microsoft account.</p>
+    <p><strong>Sign-in details:</strong><br>
+    Country/region: Russia<br>
+    IP address: 185.123.456.789<br>
+    Date: 3/20/2024 11:31 AM (GMT)<br>
+    Platform: Windows<br>
+    Browser: Chrome</p>
+    <p>If this wasn't you, please secure your account immediately.<br>
+    <a href="http://secure-microsoft-verify-login.com">Review recent activity</a></p>
+    <p>Thanks,<br>The Microsoft account team</p>
+  </body>
+</html>
