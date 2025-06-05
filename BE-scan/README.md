@@ -1,4 +1,4 @@
-### Extension Security Audit Checklist ###
+ Extension Security Audit Checklist 
 
 
   ✅ Step-by-Step Process 
@@ -55,7 +55,7 @@
 		2. Restart the browser.
 		3. See if the problem disappears.
 	 	
-### If disabling fixes issues then that extension is likely the culprit ### 
+ If disabling fixes issues then that extension is likely the culprit  
 
 	    * System policy ❗Forced installs via chrome://policy or edge://policy 
 	    * Look for anything under ExtensionInstallForcelist 
